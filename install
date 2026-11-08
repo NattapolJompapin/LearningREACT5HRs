@@ -1,0 +1,9 @@
+
+
+npm create vite@latest <Projectname>
+select React => Javascript => ESlint
+cd <Projectname>
+npm install
+
+# run project
+npm run dev
